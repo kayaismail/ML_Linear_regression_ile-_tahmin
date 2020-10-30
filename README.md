@@ -3,6 +3,6 @@
 cinsiyet icin olmasi gereken ve tahmin edilen 
 ![alt text](cinsiyeti.png)
 boy tahmin 
-![alt text]()
+![alt text](backwrdoncesi.png)
 Backward Elimination sonrasi degisim
-![alt text]()
+![alt text](backwrdsonrasi.png)
